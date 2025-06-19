@@ -1,6 +1,8 @@
 # Python_Begin
 Python Beginner Project
 
+*** I have found these in Coursera
+
 Python Resources:
 
 https://www.python.org/shell/
