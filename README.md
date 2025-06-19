@@ -1,7 +1,7 @@
 # Python_Begin
 Python Beginner Project
 
-*** I have found these in Coursera
+# I have found these in Coursera
 
 Python Resources:
 
