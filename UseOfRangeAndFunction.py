@@ -14,3 +14,8 @@ def to_celsius(x):
 
 for x in range(0,101,10):
   print(x, to_celsius(x))
+
+print("-------------------------")
+
+for n in range(0,16,3):
+    print(n)
