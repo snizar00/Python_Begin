@@ -1,4 +1,4 @@
-number = -4
+number = -3
 
 
 if number > 0:
